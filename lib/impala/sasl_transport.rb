@@ -1,3 +1,4 @@
+require "gssapi/heimdal"
 require 'gssapi'
 
 module Impala
