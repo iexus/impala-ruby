@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.license      = 'MIT'
 
   gem.add_dependency('thrift', '~> 0.9')
-  gem.add_dependency('gssapi', '~> 1.2')
+  gem.add_dependency('gssapi-osx', '~> 0.0')
 
   gem.add_development_dependency('rake')
   gem.add_development_dependency('pry')
